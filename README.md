@@ -1,5 +1,8 @@
 # Flappy_Bird_Q_Learning
 
+This repository is a q-learning agent for flappyBird.
+I also made an Enviroment for this agent that is based on Flappybird.io accessed with selenium. 
+
 
 Q-learning is performed based upon the states [x0, y0, vel, y1], where x0 and y0 are the player distances to the next lower pipe, vel is the agent y velocity, and y1 is the y distance between the lower pipes. x0, y0, y1 are calculated from the playerx, playery, and the array of lower pipes
 States are added to the Q-table as they are encountered rather than initialising a sparse Q-table. The initial state is initialised to [0, 0, 0] where the array represents [Q of no action, Q of flap action, Times experienced this state]
