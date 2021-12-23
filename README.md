@@ -17,7 +17,7 @@ Added the ability to resume the game from 70 frames (distance between pipes) bef
 For visibility, the current score the agent has reached is printed and updated every score interval of 10,000 This enables the agent to learn to overcome scenarios not often encountered. Once the agent has overcome this scenario, upon its next death it restarts training from the beginning to avoid the maximum score reached from continuously increasing
 
 # Result Run
-![Test Run after 150000 Epochs]("/FlappyBird Pygame/results/recording_gif.gif")
+![Test Run after 150000 Epochs](https://user-images.githubusercontent.com/73026635/147238347-b6b561ad-56a6-41f0-b537-94db0da13ac1.gif)
 
 
 Forked From FlapPyBird
