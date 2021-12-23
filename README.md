@@ -18,4 +18,6 @@ For visibility, the current score the agent has reached is printed and updated e
 
 # Result Run
 ![Test Run after 150000 Epochs]("/FlappyBird Pygame/results/recording_gif.gif")
+
+
 Forked From FlapPyBird
